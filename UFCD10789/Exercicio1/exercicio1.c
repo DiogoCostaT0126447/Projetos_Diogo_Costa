@@ -13,7 +13,7 @@ int main() {
     int minutos = segundos / 60;
     segundos %= 60;
 
-    printf("O numero inserido equivale a %d Horas, %d Minutos e %d Segundos.\n",  horas, minutos, segundos);
+    printf("O numero inserido equivale a %d Horas, %d Minutos e %d Segundos.\n", horas, minutos, segundos);
 
     return 0;
 }
